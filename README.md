@@ -42,7 +42,7 @@ An in-app AI chat powered by Claude. Ask questions about your inventory, pricing
 
 ---
 
-## Tech Stack
+## Tech Stack.
 
 | Layer | Technology |
 |---|---|

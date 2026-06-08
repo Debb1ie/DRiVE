@@ -1,6 +1,6 @@
 # DRiVE AI
 
-> Business intelligence built for the street
+> Business intelligence built for the street.
 
 ![DRiVE AI Dashboard](https://img.shields.io/badge/status-active-brightgreen) ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![Anthropic](https://img.shields.io/badge/Powered%20by-Claude%20AI-7C3AED) ![License](https://img.shields.io/badge/license-MIT-blue)
 

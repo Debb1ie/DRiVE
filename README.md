@@ -4,7 +4,7 @@
 
 ![DRiVE AI Dashboard](https://img.shields.io/badge/status-active-brightgreen) ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![Anthropic](https://img.shields.io/badge/Powered%20by-Claude%20AI-7C3AED) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-DRiVE AI turns daily sales data into clear, actionable business intelligence — inventory forecasts, pricing signals, and growth strategies designed specifically for Filipino sari-sari stores and MSMEs...
+DRiVE AI turns daily sales data into clear, actionable business intelligence — inventory forecasts, pricing signals, and growth strategies designed specifically for Filipino sari-sari stores and MSMEs.
 
 ---
 
